@@ -1,4 +1,5 @@
-Python Typing Speed Test
+Python Typing Speed Test:
+
 A simple and clean graphical user interface (GUI) application built with Python and Tkinter to test your typing speed and accuracy.
 
 📝 Description
